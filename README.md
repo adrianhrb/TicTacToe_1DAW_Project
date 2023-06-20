@@ -25,4 +25,7 @@ It must "paint" the board in each turn.
 It must "forbid" to place a piece in a cell already occupied.
 It must "forbid" to place a checker outside the board.
 It must indicate if any player wins the game.
-It must indicate if the game ends in a draw.
+It must indicate if the game ends in a draw.  
+
+## References
+- [Project partner](https://github.com/JaimeLGC) 
